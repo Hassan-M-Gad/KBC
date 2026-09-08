@@ -34,7 +34,7 @@
             android:fontFamily="monospace"
             android:textIsSelectable="true"
             android:textSize="13sp"
-            android:text="اضغط \"ابدأ الفحص\" لعرض تقرير قدرات جهازك." />
+            android:text="اضغط &quot;ابدأ الفحص&quot; لعرض تقرير قدرات جهازك." />
 
     </ScrollView>
 
